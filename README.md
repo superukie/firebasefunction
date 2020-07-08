@@ -1,7 +1,7 @@
 # firebasefunction
 firebase function 사용 및 database (mysql) 연결 관련 내용 예제 
 
-# 
+# 폴더 구조는 편집하면 정확하게 
 (폴더)/firebase-function
 	(폴더)/functions 
 		 --index.js		
